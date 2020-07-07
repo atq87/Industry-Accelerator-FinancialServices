@@ -16,4 +16,55 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="FSharp.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\FSharpSdk\.NETCore\3.259.41.0\FSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.PatternMatcher">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\FSharp.PatternMatcher.dll</HintPath>
+    </Reference>
+    <Reference Include="MDXQueryGenerator">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\MDXQueryGenerator.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.AdomdClient">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\Microsoft.AnalysisServices.AdomdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.Commands">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\Microsoft.AnalysisServices.Commands.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.Common.Wizard">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\Microsoft.AnalysisServices.Common.Wizard.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.DaxEditor.EditorExtensions">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\Extensions\Microsoft\DaxEditor\Microsoft.AnalysisServices.DaxEditor.EditorExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Edm">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSIS\140\Extensions\Common\Microsoft.Data.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Mashup">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\LocalServer\MDataEngine\Microsoft.Data.Mashup.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.MashupEngine">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\LocalServer\MDataEngine\Microsoft.MashupEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.PowerBI.AdomdClient">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\SSAS\LocalServer\MDataEngine\Microsoft.PowerBI.AdomdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ServiceHub.Client">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ServiceHubClient\Microsoft.ServiceHub.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.ProjectServices">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ProjectServices\Microsoft.VisualStudio.ProjectServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.ReferenceManager.Contracts">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\Microsoft.VisualStudio.ReferenceManager.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="NuGet.Build.Tasks.resources">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\pl\NuGet.Build.Tasks.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Metadata">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\System.Reflection.Metadata.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
